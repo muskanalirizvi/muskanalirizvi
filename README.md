@@ -1,6 +1,6 @@
 #  Muskan Ali Rizvi
 
-**`Data Scientist (ML/DL/Python, Scikit-learn , TensorFlow)`**
+**`Emerging Data Scientist `**
 
 A third-year software engineering student at MUET SZAB Khairpur. My areas of expertise include data science and Power BI, and I have a strong enthusiasm for artificial intelligence. I am also proficient in scikit-learn for machine learning projects.
 
