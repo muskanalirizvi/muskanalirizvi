@@ -40,7 +40,7 @@ A third-year software engineering student at MUET SZAB Khairpur. My areas of exp
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=muskanalirizvi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanalirizvi18&theme=github_dark&hide_border=false" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanalirizvi&theme=github_dark&hide_border=false" /></td>
   </tr>
 </table>
 
