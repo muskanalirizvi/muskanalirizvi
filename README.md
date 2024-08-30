@@ -35,7 +35,7 @@ A third-year software engineering student at MUET SZAB Khairpur. My areas of exp
 
 ---
 
-#  📈  GitHub Stats:
+#  📈  GitHub Stats: 
 
 <table>
   <tr>
