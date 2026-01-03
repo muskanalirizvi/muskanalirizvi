@@ -15,6 +15,17 @@ A third-year software engineering student at MUET SZAB Khairpur. My areas of exp
 
 ## 🧰 Languages and Frameworks
 
+<p align="center">
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
+  <img alt="scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+  <img alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
@@ -23,16 +34,6 @@ A third-year software engineering student at MUET SZAB Khairpur. My areas of exp
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/numpy/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/pandas/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/jupyter/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/gitlab/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/github/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/000000" width="34"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/000000" width="34"/>
-</p>
 
 
 <br />
