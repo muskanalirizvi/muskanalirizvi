@@ -23,7 +23,16 @@ A third-year software engineering student at MUET SZAB Khairpur. My areas of exp
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn,jupyter,gitlab,github" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/numpy/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/pandas/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/jupyter/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/gitlab/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/github/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/000000" width="34"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/000000" width="34"/>
+</p>
 
 
 <br />
